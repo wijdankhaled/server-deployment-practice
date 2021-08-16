@@ -14,11 +14,19 @@ Continuous integration is a coding philosophy and set of practices that drive de
 
 **Links**
 1. pull request  [pull reqest](https://github.com/wijdankhaled/server-deployment-practice/pull/1)
- 
-2. heroku deploy [heroku](https://wijdan-server-deploy-prod.herokuapp.com/)
+
+
+2. heroku deploy [heroku  dev branch ](https://wijdan-server-deploy-dev.herokuapp.com/)
+
+2. heroku deploy [heroku  main branch ](https://wijdan-server-deploy-dev.herokuapp.com/)
 
 3. Actions 
 [Action](https://github.com/wijdankhaled/server-deployment-practice/actions) 
+
+
+**UML**
+
+![uml](class2uml__1_.png)
 
 
 
